@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Login/static/css/main.f73bbb32.css",
+    "main.js": "/React-Login/static/js/main.015c093b.js",
+    "static/media/bg-intro-desktop.png": "/React-Login/static/media/bg-intro-desktop.059183eea52640c5068d.png",
+    "index.html": "/React-Login/index.html",
+    "main.f73bbb32.css.map": "/React-Login/static/css/main.f73bbb32.css.map",
+    "main.015c093b.js.map": "/React-Login/static/js/main.015c093b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f73bbb32.css",
+    "static/js/main.015c093b.js"
+  ]
+}
